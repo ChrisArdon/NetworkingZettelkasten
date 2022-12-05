@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "47b42c9ec3cd69cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9fc343b187ca7d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aecf5f74593b6424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Router.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb5590669ee70a33",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8fab6484104a732",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aeee3c521e0374f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ffaffbac1783ded",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "cybercr",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ddc4b87182ad451",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5e31d78521fdd236",
+    "type": "split",
+    "children": [
+      {
+        "id": "08878e532789dd45",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "d8dd0d6ee6e08509",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Router.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28a68bd9fad86a73",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Router.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "0e539346689dc72d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "34ace217ae5296bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Router.md"
+              }
+            }
+          },
+          {
+            "id": "53a8c05003d8c255",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "632541ec8f303b54",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "cbd7ff6458d1c561",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Router.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792594,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5
+  },
+  "active": "aecf5f74593b6424",
+  "lastOpenFiles": [
+    "OSPFv2.md",
+    "Router.md",
+    "2022-12-04.md",
+    "Cybersecurity.md",
+    "Drawing 2022-12-04 18.55.53.excalidraw.md",
+    "Forensic.md",
+    "Cybercrime.md",
+    "Cybersecurity Organizations.md",
+    "Additional Security Challenges.md",
+    "Critical Thinking.md"
+  ]
+}
